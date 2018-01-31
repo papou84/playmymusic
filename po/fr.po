@@ -31,7 +31,7 @@ msgstr "Ajouter à la liste de lecture"
 #: ../src/Widgets/Album.vala:119 ../src/Widgets/Artist.vala:99
 #: ../src/Widgets/Track.vala:114
 msgid "Send to"
-msgstr ""
+msgstr "Envoyer à"
 
 #: ../src/Widgets/Album.vala:165 ../src/Widgets/Track.vala:160
 msgid "Create New Playlist"
@@ -111,7 +111,7 @@ msgstr "Supprimer la liste de lecture"
 
 #: ../src/Widgets/Views/ArtistView.vala:213
 msgid "<b>%d Tracks</b> in <b>%d Album</b>(s)"
-msgstr "<b>%d pistes</b> dans <b>%d album</b>(s)"
+msgstr "<b>%d pistes</b> dans <b>%d Album</b>(s)"
 
 #: ../src/Widgets/Views/PlaylistsView.vala:110
 msgid "Add a playlist"
@@ -182,15 +182,15 @@ msgstr "Inconnu"
 
 #: ../src/Objects/MobilePhoneMusicFolder.vala:82
 msgid "deleting…"
-msgstr ""
+msgstr "effacement"
 
 #: ../src/Objects/AudioCD.vala:100
 msgid "Track %d"
-msgstr ""
+msgstr "Piste"
 
 #: ../src/Objects/MobilePhone.vala:45
 msgid "No Music Files found"
-msgstr ""
+msgstr "Aucun Fichier Audio Trouvé"
 
 #: ../src/MainWindow.vala:110
 msgid "Pause"
@@ -222,7 +222,7 @@ msgstr "Importer de la musique..."
 
 #: ../src/MainWindow.vala:353
 msgid "Reset all views"
-msgstr ""
+msgstr "Réinitialiser les Pochettes"
 
 #: ../src/MainWindow.vala:359
 msgid "Rescan Library"
@@ -254,7 +254,7 @@ msgstr "Stations radio"
 
 #: ../src/MainWindow.vala:484
 msgid "Audio CD"
-msgstr ""
+msgstr "CD Audio"
 
 #: ../src/MainWindow.vala:544 ../src/MainWindow.vala:552
 msgid "<b>%s</b> by <b>%s</b>"
@@ -262,16 +262,16 @@ msgstr "<b>%s</b> par <b>%s</b>"
 
 #: ../src/Dialogs/Preferences.vala:60
 msgid "Use Dark Theme"
-msgstr ""
+msgstr "Utiliser le Thème Sombre"
 
 #: ../src/Dialogs/Preferences.vala:68
 msgid "Play in background if closed"
-msgstr "Poursuivre la lecture en arrière-plan"
+msgstr "Poursuivre la lecture en arrière-plan si Fermé"
 
 #: ../src/Dialogs/Preferences.vala:76
 msgid "Look for new files on start up"
-msgstr ""
+msgstr "Rechercher des Nouveaux Fichiers au Démarrage"
 
 #: ../src/Dialogs/Preferences.vala:84
 msgid "Load Artist data from MusicBrainz"
-msgstr ""
+msgstr "Charger les Infos des Artistes de MusicBrainz"
